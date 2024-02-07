@@ -5,3 +5,5 @@ This project was created as a final project for the subject of "Advanced Topics 
 Classification is carried out by implementing Deep Learning using the Convolutional Neural Network algorithm
 
 The system achieved the classification accuracies in the range of 86.3% to 99.0%, indicating that the model is quite good.
+
+Dataset link : https://www.kaggle.com/datasets/fikranlatodjo/mangrove-species
